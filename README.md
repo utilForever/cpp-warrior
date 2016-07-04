@@ -2,9 +2,7 @@
 C++ Warrior
 ==============
 
-This is a C++ port of ryanb's `Ruby Warrior`_.
-
-.. _Ruby Warrior: https://github.com/ryanb/ruby-warrior
+This is a C++ port of ryanb's [Ruby Warrior](https://github.com/ryanb/ruby-warrior).
 
 This is a game designed to teach the C++ language and artificial intelligence in a fun, interactive way.
 
