@@ -34,7 +34,7 @@ Perspective
 
 Even though this is a text-based game, think of it as two-dimensional where you are viewing from overhead. Each level is always rectangular in shape and is made up of a number of squares. Only one unit can be on a given square at a time, and your objective is to find the square with the stairs. Here is an example level map and key.
 
-::
+```
 
    ----
   |C s>|
