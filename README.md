@@ -1,6 +1,4 @@
-==============
 # C++ Warrior
-==============
 
 This is a C++ port of ryanb's [Ruby Warrior](https://github.com/ryanb/ruby-warrior).
 
@@ -9,12 +7,10 @@ This is a game designed to teach the C++ language and artificial intelligence in
 You play as a warrior climbing a tall tower to reach the precious C++ at the top level. On each floor you need to write a C++ code to instruct the warrior to battle enemies, rescue captives, and reach the stairs. You have some idea of what each floor contains, but you never know for certain what will happen. You must give the Warrior enough artificial intelligence up-front to find his own way.
 
 ## Getting Started
-===============
 
 TBA
 
 ## Scoring
-=======
 
 Your objective is to not only reach the stairs, but to get the highest score you can. There are many ways you can earn points on a level.
 
@@ -28,7 +24,6 @@ A total score is kept as you progress through the levels. When you pass a level,
 Don't be too concerned about scoring perfectly in the beginning. After you reach the top of the tower you will be able to re-run the tower and fine-tune your warrior to get the highest score. See the Epic Mode below for details.
 
 ## Perspective
-===========
 
 Even though this is a text-based game, think of it as two-dimensional where you are viewing from overhead. Each level is always rectangular in shape and is made up of a number of squares. Only one unit can be on a given square at a time, and your objective is to find the square with the stairs. Here is an example level map and key.
 
@@ -47,26 +42,21 @@ Even though this is a text-based game, think of it as two-dimensional where you 
 ```
 
 ## Commanding the Warrior
-======================
 
 TBA
 
 ## Spaces
-======
 
 TBA
 
 ## Epic Mode
-=========
   
 TBA
 
 ## Tips
-====
 
 TBA
 
 ## Versions
-========
 
 TBA
