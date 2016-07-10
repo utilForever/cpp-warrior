@@ -47,6 +47,8 @@ namespace CppWarrior
 
 		static std::string Trim(std::string& str)
 		{
+			// For more details on the regular expressions in C++,
+			// See https://msdn.microsoft.com/en-us/library/bb982727.aspx?f=255&MSPPError=-2147217396.
 			std::string ret = regex_replace(str, std::regex("^ +| +$|( ) +"), "$1");
 			return ret;
 		}
